@@ -1,0 +1,1 @@
+const removeElement = (arr,p) => arr.filter(e => e !== p);
